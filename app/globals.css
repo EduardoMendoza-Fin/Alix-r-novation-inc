@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-white text-charcoal antialiased;
+}
+
+a {
+  @apply text-accent hover:text-navy transition-colors;
+}
+
+.section-container {
+  @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.card {
+  @apply bg-white shadow-card rounded-2xl border border-slate-100;
+}
+
+.gradient-border {
+  background: linear-gradient(120deg, #1e90ff, #0b1f3a);
+}
+
+.smooth-scroll {
+  scroll-behavior: smooth;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.carousel {
+  overflow: hidden;
+}
+
+.carousel-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 28s linear infinite;
+}
+
+.carousel:hover .carousel-track {
+  animation-play-state: paused;
+}
