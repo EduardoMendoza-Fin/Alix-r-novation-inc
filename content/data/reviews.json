@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Julie P.",
+    "role": "Résidentielle",
+    "rating": 5,
+    "text": {
+      "en": "Meticulous work on our duplex renovation. The team stayed on schedule even with winter storms.",
+      "fr": "Travail minutieux sur notre duplex. L’équipe a respecté l’échéancier malgré les tempêtes hivernales."
+    }
+  },
+  {
+    "name": "Café Mont-Royal",
+    "role": "Commercial",
+    "rating": 5,
+    "text": {
+      "en": "They handled permits, trades, and inspections. We opened exactly when promised.",
+      "fr": "Ils ont géré les permis, les corps de métier et les inspections. Nous avons ouvert à la date promise."
+    }
+  },
+  {
+    "name": "Marc D.",
+    "role": "Résidentielle",
+    "rating": 4,
+    "text": {
+      "en": "Clear communication and great finishing details. We recommend them to our neighbours.",
+      "fr": "Communication claire et superbes finis. Nous les recommandons à nos voisins."
+    }
+  },
+  {
+    "name": "Clinique Du Parc",
+    "role": "Commercial",
+    "rating": 5,
+    "text": {
+      "en": "Organized site, tight coordination with suppliers, and zero surprises on invoicing.",
+      "fr": "Chantier organisé, coordination serrée avec les fournisseurs et aucune surprise sur la facturation."
+    }
+  },
+  {
+    "name": "Sophie & Éric",
+    "role": "Résidentielle",
+    "rating": 5,
+    "text": {
+      "en": "Luxury bathroom redesign delivered with flawless tile work and spotless cleanup.",
+      "fr": "Salle de bain haut de gamme livrée avec des carrelages impeccables et un chantier toujours propre."
+    }
+  },
+  {
+    "name": "Atelier Mile-End",
+    "role": "Commercial",
+    "rating": 5,
+    "text": {
+      "en": "They respected our brand materials and kept the studio operational during the build.",
+      "fr": "Ils ont respecté nos matériaux de marque et gardé l’atelier fonctionnel pendant les travaux."
+    }
+  },
+  {
+    "name": "Nadia F.",
+    "role": "Résidentielle",
+    "rating": 4,
+    "text": {
+      "en": "Transparent pricing, detailed weekly updates, and impeccable trim carpentry.",
+      "fr": "Prix transparents, mises à jour hebdomadaires détaillées et boiseries impeccables."
+    }
+  },
+  {
+    "name": "Bistro Laurent",
+    "role": "Commercial",
+    "rating": 5,
+    "text": {
+      "en": "Coordinated night shifts to finish ahead of our opening date. Zero downtime for our team.",
+      "fr": "Travail de nuit coordonné pour finir avant l’ouverture. Zéro interruption pour notre équipe."
+    }
+  },
+  {
+    "name": "Martin L.",
+    "role": "Résidentielle",
+    "rating": 5,
+    "text": {
+      "en": "Structural work was rock solid and the crew was respectful of our home every day.",
+      "fr": "Travaux structuraux très solides et équipe respectueuse de notre maison chaque jour."
+    }
+  },
+  {
+    "name": "Studio Orford",
+    "role": "Commercial",
+    "rating": 5,
+    "text": {
+      "en": "Premium finishes, tight punch list, and flawless delivery for our flagship location.",
+      "fr": "Finitions haut de gamme, liste de déficiences courte et livraison impeccable pour notre succursale vitrine."
+    }
+  }
+]

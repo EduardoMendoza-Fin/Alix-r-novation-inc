@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "experience": "Experience",
+    "reviews": "Reviews",
+    "team": "Team",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Trusted construction and renovation across Québec",
+    "subtitle": "From elegant interiors to durable exteriors, we deliver precise workmanship, transparent communication, and on-time delivery.",
+    "primaryCta": "Explore our services",
+    "secondaryCta": "Get a quote"
+  },
+  "services": {
+    "title": "Services built for reliability",
+    "subtitle": "Tailored construction and renovation solutions for residential and commercial clients.",
+    "list": [
+      {
+        "name": "Complete renovations",
+        "description": "Kitchen, bathroom, and full-home transformations with premium materials and planning."
+      },
+      {
+        "name": "Exterior upgrades",
+        "description": "Facade refreshes, siding, and roofing that stand up to Québec winters."
+      },
+      {
+        "name": "Project management",
+        "description": "Turnkey oversight with schedules, permits, and subcontractor coordination."
+      },
+      {
+        "name": "Custom carpentry",
+        "description": "Built-ins, stairs, and woodwork crafted for durability and style."
+      },
+      {
+        "name": "Commercial fit-outs",
+        "description": "Efficient layouts, code compliance, and fast delivery for business spaces."
+      },
+      {
+        "name": "Emergency repairs",
+        "description": "Rapid interventions to secure your property and minimize downtime."
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience you can see",
+    "years": "Founded in 2024",
+    "description": "Built in 2024 to deliver rigorous schedules, precise estimates, and luxury-grade finishes on every mandate.",
+    "timeline": [
+      { "year": "2024", "label": "Company launched with a premium-first approach from the first site." },
+      { "year": "2025", "label": "Delivered first downtown Montréal commercial mandates." },
+      { "year": "2026", "label": "Scaled the crew with a dedicated luxury projects unit." },
+      { "year": "2027", "label": "Rolled out a quality and safety protocol across every site." }
+    ],
+    "projectsTitle": "Featured projects"
+  },
+  "reviews": {
+    "title": "Client reviews",
+    "subtitle": "Honest feedback from Québec homeowners and business owners."
+  },
+  "team": {
+    "title": "Our team",
+    "subtitle": "Specialists in planning, structure, and finishing who keep every site moving smoothly.",
+    "founderTitle": "Founder & CEO",
+    "ourTeamTitle": "Our Team"
+  },
+  "contact": {
+    "title": "Tell us about your project",
+    "subtitle": "We respond within one business day to schedule a walkthrough or send a quote.",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "serviceType": "Service needed",
+    "message": "Project details",
+    "submit": "Send my request",
+    "success": "Thanks! Your request has been sent.",
+    "error": "Something went wrong. Please try again.",
+    "serviceOptions": [
+      "Kitchen / Bathroom",
+      "Exterior upgrades",
+      "Commercial fit-out",
+      "Structural work",
+      "General consultation"
+    ]
+  },
+  "footer": {
+    "rbq": "RBQ License",
+    "rbqNumber": "RBQ: 0000-0000-00 (placeholder)",
+    "legal": "Insured contractor serving Greater Montréal and surrounding regions.",
+    "cta": "Plan your renovation with us"
+  }
+}
