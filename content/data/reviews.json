@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Julie P.",
+    "role": "Résidentielle",
+    "rating": 5,
+    "text": {
+      "en": "Meticulous work on our duplex renovation. The team stayed on schedule even with winter storms.",
+      "fr": "Travail minutieux sur notre duplex. L’équipe a respecté l’échéancier malgré les tempêtes hivernales."
+    }
+  },
+  {
+    "name": "Café Mont-Royal",
+    "role": "Commercial",
+    "rating": 5,
+    "text": {
+      "en": "They handled permits, trades, and inspections. We opened exactly when promised.",
+      "fr": "Ils ont géré les permis, les corps de métier et les inspections. Nous avons ouvert à la date promise."
+    }
+  },
+  {
+    "name": "Marc D.",
+    "role": "Résidentielle",
+    "rating": 4,
+    "text": {
+      "en": "Clear communication and great finishing details. We recommend them to our neighbours.",
+      "fr": "Communication claire et superbes finis. Nous les recommandons à nos voisins."
+    }
+  },
+  {
+    "name": "Clinique Du Parc",
+    "role": "Commercial",
+    "rating": 5,
+    "text": {
+      "en": "Organized site, tight coordination with suppliers, and zero surprises on invoicing.",
+      "fr": "Chantier organisé, coordination serrée avec les fournisseurs et aucune surprise sur la facturation."
+    }
+  }
+]

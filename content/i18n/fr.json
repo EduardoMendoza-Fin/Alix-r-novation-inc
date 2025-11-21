@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "experience": "Expérience",
+    "reviews": "Avis",
+    "team": "Équipe",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Construction et rénovation de confiance au Québec",
+    "subtitle": "Des intérieurs élégants aux extérieurs durables, nous livrons un travail précis, une communication claire et des échéanciers respectés.",
+    "primaryCta": "Découvrir nos services",
+    "secondaryCta": "Obtenir une soumission"
+  },
+  "services": {
+    "title": "Des services fiables",
+    "subtitle": "Solutions de construction et de rénovation pour les clients résidentiels et commerciaux.",
+    "list": [
+      {
+        "name": "Rénovations complètes",
+        "description": "Cuisines, salles de bain et transformations complètes avec des matériaux haut de gamme."
+      },
+      {
+        "name": "Améliorations extérieures",
+        "description": "Rafraîchissement de façade, revêtement et toiture adaptés aux hivers québécois."
+      },
+      {
+        "name": "Gestion de projet",
+        "description": "Gestion clé en main : échéanciers, permis et coordination des sous-traitants."
+      },
+      {
+        "name": "Menuiserie sur mesure",
+        "description": "Rangements intégrés, escaliers et boiseries durables et stylées."
+      },
+      {
+        "name": "Aménagements commerciaux",
+        "description": "Espaces optimisés, conformes aux codes, livrés rapidement pour les entreprises."
+      },
+      {
+        "name": "Réparations d'urgence",
+        "description": "Interventions rapides pour sécuriser votre propriété et limiter les dégâts."
+      }
+    ]
+  },
+  "experience": {
+    "title": "Une expérience visible",
+    "years": "15+ ans au service du Grand Montréal",
+    "description": "Nous combinons une planification rigoureuse et un travail minutieux pour livrer des résultats fiables aux propriétaires, promoteurs et entreprises.",
+    "timeline": [
+      { "year": "2009", "label": "Fondation de l'entreprise avec un focus résidentiel." },
+      { "year": "2015", "label": "Équipe agrandie et 200e chantier livré." },
+      { "year": "2020", "label": "Lancement du service d'aménagement commercial au Québec." },
+      { "year": "2024", "label": "Reconnaissance régionale pour la satisfaction client." }
+    ],
+    "projectsTitle": "Projets à l'honneur"
+  },
+  "reviews": {
+    "title": "Avis clients",
+    "subtitle": "Des commentaires honnêtes de propriétaires et d'entreprises du Québec."
+  },
+  "team": {
+    "title": "Notre équipe",
+    "subtitle": "Spécialistes en planification, structure et finition qui assurent la fluidité des chantiers."
+  },
+  "contact": {
+    "title": "Parlez-nous de votre projet",
+    "subtitle": "Nous répondons sous un jour ouvrable pour planifier une visite ou envoyer une soumission.",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "Courriel",
+    "serviceType": "Service requis",
+    "message": "Détails du projet",
+    "submit": "Envoyer ma demande",
+    "success": "Merci! Votre demande a été envoyée.",
+    "error": "Un problème est survenu. Veuillez réessayer.",
+    "serviceOptions": [
+      "Cuisine / Salle de bain",
+      "Améliorations extérieures",
+      "Aménagement commercial",
+      "Travaux structuraux",
+      "Consultation générale"
+    ]
+  },
+  "footer": {
+    "rbq": "Licence RBQ",
+    "rbqNumber": "RBQ : 0000-0000-00 (exemple)",
+    "legal": "Entrepreneur assuré au service du Grand Montréal et des régions voisines.",
+    "cta": "Planifier votre rénovation avec nous"
+  }
+}
