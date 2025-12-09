@@ -4,26 +4,25 @@
     "services": "Services",
     "experience": "Experience",
     "reviews": "Reviews",
-    "team": "Team",
     "contact": "Contact"
   },
   "hero": {
     "title": "Trusted construction and renovation across Québec",
-    "subtitle": "From elegant interiors to durable exteriors, we deliver precise workmanship, transparent communication, and on-time delivery.",
+    "subtitle": "From disaster restoration to full-home renovations, we deliver durable, elegant spaces tailored to the real needs of Québec homeowners.",
     "primaryCta": "Explore our services",
     "secondaryCta": "Get a quote"
   },
   "services": {
     "title": "Services built for reliability",
-    "subtitle": "Tailored construction and renovation solutions for residential and commercial clients.",
+    "subtitle": "Tailored construction and renovation solutions for residential clients.",
     "list": [
       {
         "name": "Complete renovations",
-        "description": "Kitchen, bathroom, and full-home transformations with premium materials and planning."
+        "description": "Kitchen, bathroom, and full-home transformations."
       },
       {
-        "name": "Exterior upgrades",
-        "description": "Facade refreshes, siding, and roofing that stand up to Québec winters."
+        "name": "Disaster Restoration",
+        "description": "Complete restoration after water damage, fire, or disaster, including decontamination and reconstruction."
       },
       {
         "name": "Project management",
@@ -34,8 +33,8 @@
         "description": "Built-ins, stairs, and woodwork crafted for durability and style."
       },
       {
-        "name": "Commercial fit-outs",
-        "description": "Efficient layouts, code compliance, and fast delivery for business spaces."
+        "name": "Basement Renovation",
+        "description": "Complete basement transformation: insulation, framing, flooring, lighting, and professional-grade finishing"
       },
       {
         "name": "Emergency repairs",
@@ -43,27 +42,22 @@
       }
     ]
   },
+
   "experience": {
-    "title": "Experience you can see",
-    "years": "Founded in 2024",
-    "description": "Built in 2024 to deliver rigorous schedules, precise estimates, and luxury-grade finishes on every mandate.",
+    "title": "Why choose us?",
+    "years": "Since 2018",
+    "description": "Backed by six years of hands-on residential experience, we deliver clean, durable, premium renovations with transparency and respect for your home, your budget, and your timeline.",
     "timeline": [
-      { "year": "2024", "label": "Company launched with a premium-first approach from the first site." },
-      { "year": "2025", "label": "Delivered first downtown Montréal commercial mandates." },
-      { "year": "2026", "label": "Scaled the crew with a dedicated luxury projects unit." },
-      { "year": "2027", "label": "Rolled out a quality and safety protocol across every site." }
+      { "year": "Expertise", "label": "6 years of real residential experience across Québec." },
+      { "year": "Quality", "label": "Premium finishes, durable materials, and precise workmanship." },
+      { "year": "Trust", "label": "Clear estimates, constant communication, and timelines respected." }
     ],
     "projectsTitle": "Featured projects"
   },
+
   "reviews": {
     "title": "Client reviews",
     "subtitle": "Honest feedback from Québec homeowners and business owners."
-  },
-  "team": {
-    "title": "Our team",
-    "subtitle": "Specialists in planning, structure, and finishing who keep every site moving smoothly.",
-    "founderTitle": "Founder & CEO",
-    "ourTeamTitle": "Our Team"
   },
   "contact": {
     "title": "Tell us about your project",
@@ -86,7 +80,7 @@
   },
   "footer": {
     "rbq": "RBQ License",
-    "rbqNumber": "RBQ: 0000-0000-00 (placeholder)",
+    "rbqNumber": "RBQ: 5837-4190-01 • RBQ: 5860-4190-01",
     "legal": "Insured contractor serving Greater Montréal and surrounding regions.",
     "cta": "Plan your renovation with us"
   }

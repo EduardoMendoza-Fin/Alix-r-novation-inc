@@ -11,7 +11,6 @@ const navItems = [
   { href: '/services', key: 'services' },
   { href: '/experience', key: 'experience' },
   { href: '/reviews', key: 'reviews' },
-  { href: '/team', key: 'team' },
   { href: '/contact', key: 'contact' },
 ]
 
@@ -26,7 +25,7 @@ export default function Navbar() {
           <span className="h-11 w-11 rounded-xl bg-gradient-to-br from-gold to-amber-500 text-ink grid place-items-center font-black shadow-lg shadow-gold/30">
             AR
           </span>
-          <span className="tracking-wide">Alix Rénovation</span>
+          <span className="tracking-wide">Alix Rénovation Inc</span>
         </Link>
 
         <nav className="hidden items-center gap-1 md:flex">

@@ -16,8 +16,8 @@ export default function ContactPage() {
       <ContactForm />
       <div className="grid gap-4 md:grid-cols-3">
         {[
-          { label: 'Montréal & Rive-Nord', detail: 'Déplacements rapides pour visites et urgences.' },
-          { label: 'RBQ 0000-0000-00', detail: 'Assurances responsabilité civile.' },
+          { label: 'Montréal, Rive-Nord & Rive-Sud', detail: 'Déplacements rapides pour visites et urgences.' },
+          { label: 'RBQ 5837-4190-01 • RBQ: 5860-4190-01', detail: 'Assurances responsabilité civile.' },
           { label: 'Disponibilité', detail: 'Réponse en 24h ouvrables.' },
         ].map((item) => (
           <div key={item.label} className="card p-4 bg-gradient-to-b from-charcoal to-ink border-gold/30">

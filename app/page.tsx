@@ -3,9 +3,7 @@
 import Link from 'next/link'
 import ServiceCard from '@/components/ServiceCard'
 import ReviewCarousel from '@/components/ReviewCarousel'
-import TeamCard from '@/components/TeamCard'
 import { useLanguage } from '@/components/LanguageProvider'
-import { teamMembers } from '@/content/data/team'
 import { projects } from '@/content/data/projects'
 
 const serviceIcons = ['🛠️', '🏠', '📋', '🪚', '🏢', '⚡']
@@ -37,7 +35,7 @@ export default function HomePage() {
             </Link>
           </div>
           <div className="grid gap-4 sm:grid-cols-3">
-            {[15, 250, 5].map((metric, idx) => (
+            {[15, 75, 3].map((metric, idx) => (
               <div key={metric} className="card p-4 text-center bg-gradient-to-b from-charcoal to-ink">
                 <p className="text-3xl font-black text-white">{metric}{idx === 0 ? '+' : ''}</p>
                 <p className="text-xs uppercase tracking-wide text-bone/60">
@@ -96,29 +94,21 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* ⭐ EXPERIENCE SECTION WITHOUT PROJECT GRID ⭐ */}
       <section className="section-container space-y-6" id="experience">
         <div className="flex flex-col gap-2 md:flex-row md:items-center md:justify-between">
           <div>
             <p className="text-sm font-semibold uppercase tracking-wide text-gold">{dictionary.nav.experience}</p>
             <h2 className="text-3xl font-black text-white">{dictionary.experience.projectsTitle}</h2>
           </div>
-          <Link href="/experience" className="text-sm font-semibold text-gold underline">
-            {dictionary.hero.primaryCta}
+
+          {/* Only the button — no projects grid */}
+          <Link
+            href="/experience"
+            className="text-sm font-semibold text-gold underline"
+          >
+            Voir nos projets
           </Link>
-        </div>
-        <div className="grid gap-6 md:grid-cols-3">
-          {projects.map((project) => (
-            <div key={project.title.en} className="card overflow-hidden border-gold/30">
-              <div
-                className="h-40 w-full bg-cover bg-center"
-                style={{ backgroundImage: `url(${project.image})` }}
-              />
-              <div className="p-5 space-y-2 bg-gradient-to-b from-charcoal to-ink">
-                <h3 className="text-lg font-semibold text-white">{project.title[locale]}</h3>
-                <p className="text-sm text-bone/70 leading-relaxed">{project.description[locale]}</p>
-              </div>
-            </div>
-          ))}
         </div>
       </section>
 
@@ -129,24 +119,6 @@ export default function HomePage() {
           <p className="text-bone/80">{dictionary.reviews.subtitle}</p>
         </div>
         <ReviewCarousel />
-      </section>
-
-      <section className="section-container space-y-6" id="team">
-        <div className="flex flex-col gap-2 md:flex-row md:items-center md:justify-between">
-          <div>
-            <p className="text-sm font-semibold uppercase tracking-wide text-gold">{dictionary.nav.team}</p>
-            <h2 className="text-3xl font-black text-white">{dictionary.team.title}</h2>
-            <p className="text-bone/80">{dictionary.team.subtitle}</p>
-          </div>
-          <Link href="/team" className="text-sm font-semibold text-gold underline">
-            {dictionary.nav.team}
-          </Link>
-        </div>
-        <div className="grid gap-6 md:grid-cols-3">
-          {teamMembers.map((member) => (
-            <TeamCard key={member.name} member={member} />
-          ))}
-        </div>
       </section>
 
       <section className="section-container">

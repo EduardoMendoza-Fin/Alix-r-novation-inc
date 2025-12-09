@@ -9,12 +9,12 @@ import Footer from '@/components/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Alix Rénovation | Construction & Rénovation au Québec',
+  title: 'Alix Rénovation Inc. | Construction & Rénovation au Québec',
   description:
-    'Entrepreneur général offrant des services de construction et rénovation résidentielle et commerciale au Québec.',
+    'Entrepreneur général offrant des services de construction et rénovation résidentielle au Québec.',
   metadataBase: new URL('https://example.com'),
   openGraph: {
-    title: 'Alix Rénovation',
+    title: 'Alix Rénovation Inc.',
     description: 'Construction et rénovation clés en main au Québec',
     locale: 'fr_CA',
     type: 'website',

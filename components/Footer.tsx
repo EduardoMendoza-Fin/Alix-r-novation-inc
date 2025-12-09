@@ -11,7 +11,7 @@ export default function Footer() {
         <div>
           <div className="flex items-center gap-3 text-lg font-bold text-white">
             <span className="h-10 w-10 rounded-xl bg-gradient-to-br from-gold to-amber-500 text-ink grid place-items-center font-black shadow-md shadow-gold/40">AR</span>
-            <span className="tracking-wide">Alix Rénovation</span>
+            <span className="tracking-wide">Alix Rénovation Inc.</span>
           </div>
           <p className="mt-3 text-sm text-bone/80">{dictionary.footer.legal}</p>
         </div>
