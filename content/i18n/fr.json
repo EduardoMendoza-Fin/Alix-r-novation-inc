@@ -4,26 +4,25 @@
     "services": "Services",
     "experience": "Expérience",
     "reviews": "Avis",
-    "team": "Équipe",
     "contact": "Contact"
   },
   "hero": {
     "title": "Construction et rénovation de confiance au Québec",
-    "subtitle": "Des intérieurs élégants aux extérieurs durables, nous livrons un travail précis, une communication claire et des échéanciers respectés.",
+    "subtitle": "De la reconstruction après-sinistre aux rénovations complètes, nous livrons des espaces durables, élégants et adaptés aux besoins réels des familles québécoises.",
     "primaryCta": "Découvrir nos services",
     "secondaryCta": "Obtenir une soumission"
   },
   "services": {
     "title": "Des services fiables",
-    "subtitle": "Solutions de construction et de rénovation pour les clients résidentiels et commerciaux.",
+    "subtitle": "Solutions de construction et de rénovation pour les clients résidentiels.",
     "list": [
       {
         "name": "Rénovations complètes",
-        "description": "Cuisines, salles de bain et transformations complètes avec des matériaux haut de gamme."
+        "description": "Cuisines, salles de bain et transformations complètes."
       },
       {
-        "name": "Améliorations extérieures",
-        "description": "Rafraîchissement de façade, revêtement et toiture adaptés aux hivers québécois."
+        "name": "Travaux après-sinistre",
+        "description": "Restauration complète après dégâts d’eau, feu ou sinistre, incluant décontamination et reconstruction."
       },
       {
         "name": "Gestion de projet",
@@ -34,8 +33,8 @@
         "description": "Rangements intégrés, escaliers et boiseries durables et stylées."
       },
       {
-        "name": "Aménagements commerciaux",
-        "description": "Espaces optimisés, conformes aux codes, livrés rapidement pour les entreprises."
+        "name": "Réaménagement de sous-sol",
+        "description": "Transformation complète de votre sous-sol : isolation, divisions, planchers, éclairage et finition de qualité professionnelle."
       },
       {
         "name": "Réparations d'urgence",
@@ -43,25 +42,22 @@
       }
     ]
   },
+
   "experience": {
-    "title": "Une expérience visible",
-    "years": "15+ ans au service du Grand Montréal",
-    "description": "Nous combinons une planification rigoureuse et un travail minutieux pour livrer des résultats fiables aux propriétaires, promoteurs et entreprises.",
+    "title": "Pourquoi nous choisir ?",
+    "years": "Depuis 2018",
+    "description": "Forte de plus de six ans d’expérience réelle en rénovation résidentielle, notre équipe livre des projets propres, durables et haut de gamme, dans le respect de votre maison, de votre budget et de vos échéanciers.",
     "timeline": [
-      { "year": "2009", "label": "Fondation de l'entreprise avec un focus résidentiel." },
-      { "year": "2015", "label": "Équipe agrandie et 200e chantier livré." },
-      { "year": "2020", "label": "Lancement du service d'aménagement commercial au Québec." },
-      { "year": "2024", "label": "Reconnaissance régionale pour la satisfaction client." }
+      { "year": "Expertise", "label": "+ 6 ans d’expérience concrète sur des chantiers résidentiels partout au Québec." },
+      { "year": "Qualité", "label": "Finitions premium, matériaux durables et exécution précise." },
+      { "year": "Confiance", "label": "Estimations claires, communication continue et échéanciers respectés." }
     ],
     "projectsTitle": "Projets à l'honneur"
   },
+
   "reviews": {
     "title": "Avis clients",
     "subtitle": "Des commentaires honnêtes de propriétaires et d'entreprises du Québec."
-  },
-  "team": {
-    "title": "Notre équipe",
-    "subtitle": "Spécialistes en planification, structure et finition qui assurent la fluidité des chantiers."
   },
   "contact": {
     "title": "Parlez-nous de votre projet",
@@ -84,7 +80,7 @@
   },
   "footer": {
     "rbq": "Licence RBQ",
-    "rbqNumber": "RBQ : 0000-0000-00 (exemple)",
+    "rbqNumber": "RBQ : 5837-4190-01 • RBQ: 5860-3523-01",
     "legal": "Entrepreneur assuré au service du Grand Montréal et des régions voisines.",
     "cta": "Planifier votre rénovation avec nous"
   }

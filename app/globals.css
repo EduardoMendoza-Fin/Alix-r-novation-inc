@@ -3,15 +3,15 @@
 @tailwind utilities;
 
 :root {
-  color-scheme: light;
+  color-scheme: dark;
 }
 
 body {
-  @apply bg-white text-charcoal antialiased;
+  @apply bg-gradient-to-b from-ink via-charcoal to-ink text-bone antialiased;
 }
 
 a {
-  @apply text-accent hover:text-navy transition-colors;
+  @apply text-accent hover:text-white transition-colors;
 }
 
 .section-container {
@@ -19,11 +19,11 @@ a {
 }
 
 .card {
-  @apply bg-white shadow-card rounded-2xl border border-slate-100;
+  @apply bg-charcoal shadow-card rounded-2xl border border-gold/30;
 }
 
 .gradient-border {
-  background: linear-gradient(120deg, #1e90ff, #0b1f3a);
+  background: linear-gradient(120deg, #C9A227, #111111);
 }
 
 .smooth-scroll {

@@ -8,12 +8,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        navy: '#0b1f3a',
-        charcoal: '#1f2933',
-        accent: '#1e90ff',
+        navy: '#0b0b0b',
+        charcoal: '#111111',
+        accent: '#C9A227',
+        gold: '#C9A227',
+        ink: '#000000',
+        bone: '#f7f4ec',
       },
       boxShadow: {
-        card: '0 10px 25px rgba(0,0,0,0.08)',
+        card: '0 18px 38px rgba(0,0,0,0.35)',
       },
     },
   },

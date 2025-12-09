@@ -1,38 +1,92 @@
 [
   {
-    "name": "Julie P.",
-    "role": "Résidentielle",
+    "name": "Chantal.",
+    "role": "Rénovation : Salle de bain",
     "rating": 5,
     "text": {
-      "en": "Meticulous work on our duplex renovation. The team stayed on schedule even with winter storms.",
-      "fr": "Travail minutieux sur notre duplex. L’équipe a respecté l’échéancier malgré les tempêtes hivernales."
+      "en": "The workers from Alix Renovation are helpful, meticulous, and very clean. Mr. Mendoza managed the project in a very professional manner and is very friendly. The result completely meets our expectations.",
+      "fr": "Les ouvriers d'Alix Rénovation sont serviables, méticuleux et très propres. M. Mendoza a géré le projet de façon très professionnelle et est très sympathique. Le résultat répond complètement à nos attentes."
     }
   },
   {
-    "name": "Café Mont-Royal",
-    "role": "Commercial",
+    "name": "Marie-Pier",
+    "role": "Rénovation général",
     "rating": 5,
     "text": {
-      "en": "They handled permits, trades, and inspections. We opened exactly when promised.",
-      "fr": "Ils ont géré les permis, les corps de métier et les inspections. Nous avons ouvert à la date promise."
+      "en": "A wonderful experience!",
+      "fr": "Superbe expérience!"
     }
   },
   {
-    "name": "Marc D.",
-    "role": "Résidentielle",
-    "rating": 4,
+    "name": "Benoit",
+    "role": "Rénovation de cuisine",
+    "rating": 5,
     "text": {
-      "en": "Clear communication and great finishing details. We recommend them to our neighbours.",
-      "fr": "Communication claire et superbes finis. Nous les recommandons à nos voisins."
+      "en": "Conscientious contractor, good supervision of work, work completed on time, takes care to satisfy the customer, work well executed, very available. Nice, friendly attitude. Very satisfied with the result. I recommend him as a reliable contractor.",
+      "fr": "Entrepreneur consciencieux, bonne supervision des travaux, temps des travaux respecté, prend soins de satisfaire le client, travaux bien exécutés, très bonne disponibilité. Belle attitude sympathique. Très satisfaits du résultat.Je le recommande comme entrepreneur sérieux."
     }
   },
   {
-    "name": "Clinique Du Parc",
-    "role": "Commercial",
+    "name": "Denis",
+    "role": "Installation de plancher",
     "rating": 5,
     "text": {
-      "en": "Organized site, tight coordination with suppliers, and zero surprises on invoicing.",
+      "en": "Well-organized project, close coordination with suppliers, and no surprises on the bill.",
       "fr": "Chantier organisé, coordination serrée avec les fournisseurs et aucune surprise sur la facturation."
+    }
+  },
+  {
+    "name": "Zakaria",
+    "role": "Résidentielle",
+    "rating": 5,
+    "text": {
+      "en": "Very fast and efficient. Excellent communication.",
+      "fr": "Très rapide et Efficace. Excellente communication."
+    }
+  },
+  {
+    "name": "Marie-Flore",
+    "role": "Rénovation : Salle de bain",
+    "rating": 5,
+    "text": {
+      "en": "Very professional, respectful in his approach and suggestions, easily identifies what needs to be corrected and explains how he will remedy it. He is punctual. Impeccable and very satisfactory work so far. He started yesterday (May 12, 2025). I don't think I'll be disappointed. Oh, and most importantly, he drew up a contract that we signed without any problems.",
+      "fr": "Très professionnel, respectueux dans son approche et ses suggestions, capte facilement ce qui est à corriger et dit comment il va y remédier. Il est à l’heure. Travail impeccable et très satisfaisant jusqu’à présent. Il a commencé hier (12/05/2025). Je ne serai pas déçue, je pense, Oh l’essentiel, il a fait son contrat que nous avons signé sans problème."
+    }
+  },
+  {
+    "name": "Amardeepkumar",
+    "role": "Résidentielle",
+    "rating": 5,
+    "text": {
+      "en": "Great job",
+      "fr": "Excellent travail."
+    }
+  },
+  {
+    "name": "Serge",
+    "role": "Commercial",
+    "rating": 5,
+    "text": {
+      "en": "VERY GOOD WORK, EFFICIENCY, GOOD PRICE. I RECOMMENDED HIM TO MY FRIENDS, WHO APPRECIATED HIS WORK. SERGE BIAS.",
+      "fr": "TRÈS BON TRAVAIL ,ÉFFICACITÉ, BON PRIX . JE L'AI RECOMMANDÉ A MES AMIS QUI ONT APPRÉCIÉS SON OUVRAGE. SERGE BIAS."
+    }
+  },
+  {
+    "name": "Hugues",
+    "role": "Résidentielle",
+    "rating": 5,
+    "text": {
+      "en": "Structural work was rock solid and the crew was respectful of our home every day.",
+      "fr": "Travaux structuraux très solides et équipe respectueuse de notre maison chaque jour."
+    }
+  },
+  {
+    "name": "Denis",
+    "role": "Résidentielle",
+    "rating": 5,
+    "text": {
+      "en": "Very good, reliable service. Very satisfied with his work.",
+      "fr": "Tres bon service fiable tres sastifait de son travail."
     }
   }
 ]
