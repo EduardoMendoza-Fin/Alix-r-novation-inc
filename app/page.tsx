@@ -3,7 +3,9 @@
 import Link from 'next/link'
 import ServiceCard from '@/components/ServiceCard'
 import ReviewCarousel from '@/components/ReviewCarousel'
+import TeamCard from '@/components/TeamCard'
 import { useLanguage } from '@/components/LanguageProvider'
+import { teamMembers } from '@/content/data/team'
 import { projects } from '@/content/data/projects'
 
 const serviceIcons = ['🛠️', '🏠', '📋', '🪚', '🏢', '⚡']
